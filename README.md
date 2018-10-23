@@ -15,7 +15,7 @@ C++ design and some other topics.
 #### Design  
 [Stephen Dewhurst "Modern C++ Interfaces"](https://youtu.be/PFdWqa68LmA)  
 [Titus Winters "Modern C++ Design (part 1 of 2)"](https://www.youtube.com/watch?v=xTdeZ4MxbKo)  
-[Titus Winters "Modern C++ API Design: From Rvalue-References to Type Design"](https://www.youtube.com/watch?v=2UmDvg5xv1U)  
+[Titus Winters "Modern C++ Design (part 2 of 2)"](https://www.youtube.com/watch?v=tn7oVNrPM8I) 
 #### Multithreading  
 [Ansel Sermersheim "Multithreading is the answer. What is the question? (part 1 of 2)"](https://youtu.be/GNw3RXr-VJk)  
 [Ansel Sermersheim "Multithreading is the answer. What is the question? (part 2 of 2)"](https://youtu.be/sDLQWivf1-I)  
