@@ -6,10 +6,13 @@ C++ design and some other topics.
 [C++ Concurrency in Action: Practical Multithreading](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770/ref=sr_1_1?ie=UTF8&qid=1540210503&sr=8-1&keywords=c%2B%2B+multithreading) by Anthony Williams  
 [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) by Scott Meyers  
 
-## Blogs and articles  
+## Blogs, articles and collections  
 [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)  
 [FluentC++](https://www.fluentcpp.com/)  
 [C++ Tips of the Week from Abseil](https://abseil.io/tips/)  
+[Bartek's coding blog](https://www.bfilipek.com/p/start-here.html)
+[cppbestpractices](https://github.com/lefticus/cppbestpractices)
+[Awesome C++](https://github.com/fffaraz/awesome-cpp)
 
 ## Presentations  
 #### Design  
