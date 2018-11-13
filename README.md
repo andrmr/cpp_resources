@@ -1,5 +1,5 @@
 # C++ Learning Resources  
-C++ design and some other topics.  
+C++ design, advanced concepts and best practices
 
 ## Books  
 [API Design for C++](https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037) by Martin Reddy  
