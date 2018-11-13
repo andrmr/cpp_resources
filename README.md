@@ -1,4 +1,4 @@
-# C++ Learning Resources  
+# C++ Resources  
 C++ design, advanced concepts and best practices
 
 ## Books  
