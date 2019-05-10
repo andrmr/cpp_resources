@@ -3,9 +3,11 @@ C++ design, advanced concepts and best practices
 
 ## Books  
 [API Design for C++](https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037) by Martin Reddy  
-[C++ Concurrency in Action: Practical Multithreading](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770/ref=sr_1_1?ie=UTF8&qid=1540210503&sr=8-1&keywords=c%2B%2B+multithreading) by Anthony Williams  
+[C++ Concurrency in Action: Practical Multithreading](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770/) by Anthony Williams  
 [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) by Scott Meyers  
 [C++17 STL Cookbook](https://www.amazon.com/STL-Cookbook-enhancements-programming-expressions/dp/178712049X) by Jacek Galowicz  
+[Financial Instrument Pricing Using C++](https://www.amazon.com/Financial-Instrument-Pricing-Using-Finance/dp/0470971193) by Daniel J. Duffy  
+[C++ Templates: The Complete Guide (2nd Edition)](https://www.amazon.com/C-Templates-Complete-Guide-2nd/dp/0321714121/) by David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor  
 
 ## Blogs, articles and collections  
 [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)  
