@@ -2,7 +2,7 @@
 C++ design, advanced concepts and best practices
 
 ## Books  
-[Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition)](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) by Scott Meyers 
+[Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition)](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) by Scott Meyers  
 [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) by Scott Meyers  
 [API Design for C++](https://www.amazon.com/API-Design-C-Martin-Reddy/dp/0123850037) by Martin Reddy  
 [C++ Concurrency in Action: Practical Multithreading (2nd Edition)](https://www.amazon.com/C-Concurrency-Action-Anthony-Williams/dp/1617294691) by Anthony Williams  
