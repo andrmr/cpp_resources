@@ -43,7 +43,7 @@ C++ design, advanced concepts and best practices
 #### Security  
 [Gynvael Coldwind "C/C++ vs Security!"](https://youtu.be/j82iw03aOgM)  
 #### Tools  
-[Peter Bindels & Sy Brand "Hello World From Scratch"](https://youtu.be/4V9QWHjRPMc)
+[Peter Bindels & Sy Brand "Hello World From Scratch"](https://youtu.be/4V9QWHjRPMc)  
 [Greg Law "Debugging Linux C++"](https://youtu.be/V1t6faOKjuQ)
   
 ## Channels  
