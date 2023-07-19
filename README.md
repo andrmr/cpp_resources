@@ -18,6 +18,7 @@ C++ design, advanced concepts and best practices
 [Bartek's coding blog](https://www.bfilipek.com/p/start-here.html)  
 [cppbestpractices](https://github.com/lefticus/cppbestpractices)  
 [Awesome C++](https://github.com/fffaraz/awesome-cpp)  
+[CppExpert](https://www.cppexpert.online/)
 
 ## Presentations  
 #### Design  
